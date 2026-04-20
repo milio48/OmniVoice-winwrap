@@ -12,7 +12,7 @@ Pilih **salah satu** metode di bawah ini:
 Buka aplikasi **Windows PowerShell**, *copy-paste* perintah di bawah ini, lalu tekan Enter:
 
 ```powershell
-irm [https://raw.githubusercontent.com/milio48/OmniVoice-winwrap/main/install.ps1](https://raw.githubusercontent.com/milio48/OmniVoice-winwrap/main/install.ps1) | iex
+irm https://raw.githubusercontent.com/milio48/OmniVoice-winwrap/main/install.ps1 | iex
 ```
 
 ### Metode 2: Klik 2x (.bat)
