@@ -16,7 +16,7 @@ irm https://raw.githubusercontent.com/milio48/OmniVoice-winwrap/main/install.ps1
 ```
 
 ### Metode 2: Klik 2x (.bat)
-1. Pergi ke halaman [Releases](https://github.com/milio48/OmniVoice-winwrap/releases/latest).
+1. Pergi ke halaman [Releases](https://github.com/milio48/OmniVoice-winwrap/releases/download/v0/install.bat).
 2. Download file `install.bat`.
 3. Simpan di PC, lalu **klik 2x** file tersebut.
 4. Jika muncul peringatan keamanan Windows (SmartScreen), pilih *More info* -> *Run anyway*.
